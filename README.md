@@ -5,3 +5,8 @@ This time interval can be changed very simply in the code.
 # Dependencies
 Plyer Python:<br>
 To install :  pip install plyer
+
+
+# Usage 
+Just download and run spanish_vocab.pyw  <br>
+and that's all you need to do.
